@@ -273,9 +273,9 @@ int main() {
 
 
 ---
-* ##PSP表格
+##  PSP表格
 |  PSP2.1    |  Personal Software Process Stages    |   预估耗时（分钟）   |实际耗时（分钟）|
-| ---- | ---- | ---- |-|
+| ---- | ---- | ---- | ---- |
 |  Planning    |   计划   |30      |40|
 |    Estimate  |   估计这个任务需要多少时间   | 1600     |1500|
 |    Development  |  开发    |  200    |300|
